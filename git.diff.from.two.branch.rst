@@ -1,5 +1,5 @@
 Diff from two branch
-====================
+--------------------
 
 We want to know whether there are conflict of two branch. How can I do this?
 
