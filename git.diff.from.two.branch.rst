@@ -1,25 +1,24 @@
-Diff from two branch
---------------------
+Verficare se ci sono conflitti tra due branch
+---------------------------------------------
 
-We want to know whether there are conflict of two branch. How can I do this?
+Vogliamo sapere se ci sono conflitti tra due branch. Supponiamo di trovarci nel
+master e di voler testare se il branch di test può essere mergiato senza 
+conflitti all'interno del master.
 
-Suppose you are on the master branch and you would like to test if the dev 
-branch can be merged without conflict into the master.
-
-**In the master branch**
+**Nel branch master**
 
 ::
 
     git merge dev --no-ff --no-commit
 
-After that, you will be able to know if there's a conflict or not.
-To return in a normal situation, just abort the merge:
+Dopo aver fatto questo, saremo in grado di sapere se ci sono conflitti o meno.
+Per tornare alla situazione precedente, limitiamoci a fare un abort del merge:
 
 ::
 
     git merge --abort
 
-According to the git documentation:
+Come da documentazione di git:
 
 ::
 
