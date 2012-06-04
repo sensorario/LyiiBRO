@@ -7,3 +7,8 @@ Yii1.1.x
 ========
 
 .. include:: yii.CActiveDataProvider.rst
+
+Git
+===
+
+.. include:: git.diff.from.two.branches.rst
