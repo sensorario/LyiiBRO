@@ -11,4 +11,4 @@ Yii1.1.x
 Git
 ===
 
-.. include:: git.diff.from.two.branches.rst
+.. include:: git.diff.from.two.branch.rst
