@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="accreditamenti" default="help">
+    
+    <target name="docs">
+        <exec command="rst2pdf index.rst -o LyiiBRO.pdf" />
+    </target>
+
+    <target name="help">
+	<echo>
+            Accreditamenti:
+
+            $ phing help        - lancia questo help
+            $ phing docs        - genera pdf
+	</echo>
+    </target>
+    
+</project>
