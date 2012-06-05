@@ -6,6 +6,7 @@ PHP
 Yii1.1.x
 ========
 
+.. include:: yii.relations.rst
 .. include:: yii.CActiveDataProvider.rst
 
 Git
