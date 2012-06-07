@@ -14,3 +14,8 @@ Git
 ===
 
 .. include:: git.diff.from.two.branch.rst
+
+Phing
+=====
+
+.. include:: phing.LyiiBRO.rst
