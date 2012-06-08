@@ -7,6 +7,7 @@ Symfony2
 ========
 
 .. include:: symfony2/model.repository.related.entity.rst
+.. include:: symfony2/flash.messages.rst
 
 Yii1.1.x
 ========
