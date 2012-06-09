@@ -1,5 +1,10 @@
+======================================================================
 Accedere al repository di un'entità che è chiave esterna con Doctrine2
-----------------------------------------------------------------------
+======================================================================
+
+--------
+Scenario
+--------
 
 Il concetto è semplice. Supponiamo di avere un'entità macchina ed un'entità
 gomme. Come possiamo fare per accedere alle gomme, partendo dall'entità 
@@ -15,6 +20,10 @@ Se ci trovassimo nel controller potremmo usare questa soluzione.
 Ma se volessimo incapsulare dentro al repositori di Car questa query, potremmo
 accedere alle gomme di ogni macchina con questo nuovo metodo da aggiungere al
 CarRepository.
+
+----------------------------------
+Aggiungere un metodo al Repository
+----------------------------------
 
 ::
 
@@ -40,6 +49,10 @@ CarRepository.
     }
 
 Non è il solo metodo per scrivere query, anzi.
+
+----------------------
+Usare il query builder
+----------------------
 
 ::
 

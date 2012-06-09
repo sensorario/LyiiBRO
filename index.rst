@@ -6,9 +6,17 @@ PHP
 Symfony2
 ========
 
-.. include:: symfony2/model.repository.related.entity.rst
+Varie
+-----
+
 .. include:: symfony2/flash.messages.rst
 .. include:: symfony2/sicurezza.rotte.rst
+
+Model
+-----
+
+.. include:: symfony2/model.repository.related.entity.rst
+.. include:: symfony2/model.chiavi.esterne.rst
 
 Yii1.1.x
 ========

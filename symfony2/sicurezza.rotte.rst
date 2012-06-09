@@ -1,5 +1,6 @@
+====================
 Proteggere una rotta
---------------------
+====================
 
 Quando vogliamo proteggere una rotta dall'accesso di un utente. Possiamo
 intervenire nel security.yml. In questa piccola guida spiegheremo come prendere

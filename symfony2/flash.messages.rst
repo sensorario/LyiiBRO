@@ -1,5 +1,6 @@
+==============
 Flash Messages
---------------
+==============
 
 Alcune azioni, potrebbero richiedere di visualizzare un messaggio nella pagina
 per comunicarne l'esito all'utente. Per fare degli esempi:
