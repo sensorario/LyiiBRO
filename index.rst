@@ -35,3 +35,13 @@ Phing
 =====
 
 .. include:: phing/LyiiBRO.rst
+
+MySQL
+=====
+
+.. include:: mysql/mysqldump.rst
+
+sqlite3
+=======
+
+.. include:: sqlite3/esempi.rst
