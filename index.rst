@@ -11,6 +11,7 @@ Varie
 
 .. include:: symfony2/flash.messages.rst
 .. include:: symfony2/sicurezza.rotte.rst
+.. include:: symfony2/behat.apici.rst
 
 Model
 -----
