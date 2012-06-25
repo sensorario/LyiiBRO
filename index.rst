@@ -31,6 +31,7 @@ Git
 
 .. include:: git/diff.from.two.branch.rst
 .. include:: git/branch.from.tag.rst
+.. include:: git/directory.rename.rst
 
 Phing
 =====
