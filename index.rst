@@ -12,6 +12,10 @@ Varie
 .. include:: symfony2/flash.messages.rst
 .. include:: symfony2/sicurezza.rotte.rst
 .. include:: symfony2/behat.apici.rst
+.. include:: symfony2/model.chiavi.esterne.rst
+.. include:: symfony2/model.repository.related.entity.rst
+.. include:: symfony2/sessioni.rst
+.. include:: symfony2/sicurezza.rotte.rst
 
 Model
 -----
