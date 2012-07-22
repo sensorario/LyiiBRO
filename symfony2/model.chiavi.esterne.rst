@@ -6,8 +6,11 @@ Creare una chiave esterna
 Premessa
 --------
 
-Nel database di Accreditamenti abbiamo due grandi entità. Una è Congresso e
-l'altra si chiama Accreditamento. Queste due entità sono legate tra loro. In 
+Supponiamo di dover implementare una soluzione software in grado di gestire dei
+congressi ed i relativi accreditamenti per i partecipanti. 
+
+Nel database di Accreditamenti abbiamo due grandi entità. La prima è Congresso.
+La seconda è Accreditamento. Queste due entità sono legate tra loro. In 
 particolare un congresso può avere molti accreditamenti, ed un accreditamento
 appartiene ad un solo congresso.
 
@@ -17,10 +20,22 @@ Cosa fare per relazionare le due entità
 
 Per relazionare le due entità dovremo seguire una serie di passaggi.
 
+In questa relazione One è il **Congresso** e Many è l'**Accreditamento**. Quindi
+in Accreditamento avremo una chiave @ManyToOne (ovvero questa proprietà punta ad
+un record). Mentre in Congresso, avremo una chiave @OneToMany.
+
 #. Modificare l'entità Accreditamento
 #. Modificare l'entità Congresso
 #. Completare le entità
 #. Creare la nuova migration
+
+In generale un accreditamento non può esistere senza congresso. Ma un congresso
+può esistere anche se non ci sono accreditamenti. Astraendo ancora di più, può
+verificarsi che esista un database con una sola entità e che ad un certo punto
+questa debba essere estesa. Verrà estesa con una chiave esterna.
+
+Nell'entità originale andremo a mettere una @OneToMany mentre nella "importata"
+useremo la @ManyToOne.
 
 ----------------------------------
 Modificare l'entità Accreditamento
