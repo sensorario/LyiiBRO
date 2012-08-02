@@ -1,7 +1,12 @@
-Gli eventi
-----------
+======
+Events
+======
 
-Ciao Amicyii!!! Vi è mai capitato di avere bisogno di eseguire una certa azione 
+--------
+Scenario
+--------
+
+Vi è mai capitato di avere bisogno di eseguire una certa azione 
 o di controllare dei dati ad ogni esecuzione di pagina? Yii ci permette di 
 farlo. Nel forum italiano di Yii è stato posto il problema. Lo abbiamo 
 analizzato un po'. Alla fine la soluzione migliore sembra essere quella di 

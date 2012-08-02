@@ -27,9 +27,13 @@ Model
 Yii1.1.x
 ========
 
+Varie
+-----
+
 .. include:: yii/CActiveDataProvider.rst
 .. include:: yii/events.rst
 .. include:: yii/relations.rst
+.. include:: yii/rbac.checkaccess.rst
 
 Git
 ===

@@ -1,5 +1,10 @@
+===========================================
 Aggiungere una relazione con una condizione
--------------------------------------------
+===========================================
+
+--------
+Scenario
+--------
 
 E' possibile indicare una relazione nel proprio model, e fare in modo che 
 esista solo in una determinata condizione.
