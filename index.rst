@@ -34,6 +34,7 @@ Varie
 .. include:: yii/events.rst
 .. include:: yii/relations.rst
 .. include:: yii/rbac.checkaccess.rst
+.. include:: yii/tests.functional.rst
 
 Git
 ===
