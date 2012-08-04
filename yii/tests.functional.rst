@@ -14,6 +14,7 @@ applications. We'll follow some steps:
 #. create new yii webapp;
 #. download and start selenium;
 #. define TEST_BASE_URL constant;
+#. remove internet explorer;
 #. run functional tests;
 
 -------------------
@@ -74,6 +75,25 @@ Define TEST_BASE_URL constant
      * Make sure the URL ends with a slash so that we can use relative URLs in test cases
      */
     define('TEST_BASE_URL','http://localhost/test-yii/index-test.php/');
+
+------------------------
+Remove internet explorer
+------------------------
+
+In phpunit.xml is defined the browser. Remove iexplorer and just run tests.
+
+::
+
+    <phpunit bootstrap="bootstrap.php"
+		colors="true"
+		convertErrorsToExceptions="true"
+		convertNoticesToExceptions="true"
+		convertWarningsToExceptions="true"
+		stopOnFailure="false">
+	<selenium>
+		<browser name="Firefox" browser="*firefox" />
+	</selenium>
+    </phpunit>
 
 --------------------
 Run functional tests
