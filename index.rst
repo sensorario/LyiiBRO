@@ -58,3 +58,8 @@ sqlite3
 =======
 
 .. include:: sqlite3/esempi.rst
+
+Testing with Behat
+==================
+
+.. include:: testing/configure.behat.rst
