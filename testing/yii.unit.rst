@@ -265,6 +265,25 @@ Ecco qui l'errore:
     FAILURES!
     Tests: 4, Assertions: 4, Failures: 2.
 
+Correggiamo il nostro componente:
+
+::
+
+    class NicknameParser extends CComponent
+    {
+        ...
+        public function getArrayNicknames()
+        {
+            preg_match_all("/@(\w+)/", $this->text, $matches);
+            $occorrenze = array();
+            foreach ($matches[1] as $token) {
+                $occorrenze[] = $token;
+            };
+            return $occorrenze;
+        }
+    }
+
+
 Lanciare un test senza provider, può significare scrivere un test che risolve l'unico problema che abbiamo implementato. Ma noi non vogliamo che il nostro codice funzioni solo in un caso, ma in tutti quanti i casi che ci viene in mente di indicare nel provider. Vediamo ora che cosa succede se inseriamo come codice.
 
 ::
