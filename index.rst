@@ -65,3 +65,4 @@ Testing with Behat
 
 .. include:: testing/configure.behat.rst
 .. include:: testing/mink.behat.login.con.yii.rst
+.. include:: testing/yii.unit.rst
