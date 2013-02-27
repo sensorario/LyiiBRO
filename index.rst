@@ -36,6 +36,11 @@ Varie
 .. include:: yii/rbac.checkaccess.rst
 .. include:: yii/tests.functional.rst
 
+Ssh
+===
+.. include:: ssh/autologin.rst
+
+
 Git
 ===
 
@@ -44,6 +49,7 @@ Git
 .. include:: git/diff.from.two.branch.rst
 .. include:: git/directory.rename.rst
 .. include:: git/remove.remote.tag.rst
+.. include:: git/start.rst
 
 Phing
 =====
