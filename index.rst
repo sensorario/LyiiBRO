@@ -30,6 +30,7 @@ Yii1.1.x
 Varie
 -----
 
+.. include:: yii/behaviors.rst
 .. include:: yii/CActiveDataProvider.rst
 .. include:: yii/events.rst
 .. include:: yii/relations.rst
