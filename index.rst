@@ -51,6 +51,7 @@ Git
 .. include:: git/directory.rename.rst
 .. include:: git/remove.remote.tag.rst
 .. include:: git/start.rst
+.. include:: git/tag.move.rst
 
 Phing
 =====
