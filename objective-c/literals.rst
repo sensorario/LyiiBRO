@@ -1,4 +1,4 @@
-Questi literals sono supportati da Xcode 4.4 
+N.B literals supportati da Xcode 4.4 
 ============================================
 
 literals NSNumber
