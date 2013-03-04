@@ -7,7 +7,7 @@ Taggare è un modo fantastico per segnare l'avanzamento della versione del propr
 
     git tag v0.3
 
-Se per qualsiasi ragione continuamo a sviluppare per questa versione del software, abbiamo la necessità di spostare spostare il tag, per farlo possiamo semplicemente posizionarci nel commit che ci interessa e li lanciare il comando.
+Se per qualsiasi ragione continuamo a sviluppare per questa versione del software, abbiamo la necessità di spostare il tag, per farlo possiamo semplicemente posizionarci nel commit che ci interessa e li lanciare il comando.
 
 ::
 
