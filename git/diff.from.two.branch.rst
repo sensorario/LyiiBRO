@@ -1,4 +1,4 @@
-Verficare se ci sono conflitti tra due branch
+Verificare se ci sono conflitti tra due branch
 ---------------------------------------------
 
 Vogliamo sapere se ci sono conflitti tra due branch. Supponiamo di trovarci nel
