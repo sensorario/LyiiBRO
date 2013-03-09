@@ -17,6 +17,7 @@ Varie
 .. include:: symfony2/model.repository.related.entity.rst
 .. include:: symfony2/sessioni.rst
 .. include:: symfony2/sicurezza.rotte.rst
+.. include:: symfony2/start.on.linux.rst
 
 Model
 -----
