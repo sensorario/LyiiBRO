@@ -73,5 +73,5 @@ Abbiamo terminato il nostro lavoro. Tutto quello che dobbiamo fare ora, è lanci
 
 ::
 
-    $ bin/behat
+    $ ./bin/behat
 
