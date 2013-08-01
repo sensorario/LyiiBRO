@@ -13,8 +13,6 @@ Varie
  - [Attributi di default](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/entity.defaults.values.rst)
  - [Flash messages](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/flash.messages.rst)
  - [Form entity](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/form.entity.rst)
- - [Creare una chiave esterna](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/model.chiavi.esterne.rst)
- - [Accedere al repository di una chiave esterna](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/model.repository.related.entity.rst)
  - [Sessioni](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/sessioni.rst)
  - [Proteggere una rotta](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/sicurezza.rotte.rst)
  - [Permessi su linux](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/start.on.linux.rst)
@@ -22,8 +20,8 @@ Varie
 Model
 -----
 
-.. include:: symfony2/model.chiavi.esterne.rst
-.. include:: symfony2/model.repository.related.entity.rst
+ - [Creare una chiave esterna](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/model.chiavi.esterne.rst)
+ - [Accedere al repository di una chiave esterna](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/model.repository.related.entity.rst)
 
 Yii1.1.x
 ========
