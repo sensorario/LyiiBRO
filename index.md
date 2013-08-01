@@ -46,14 +46,14 @@ Ssh
 Git
 ===
 
-.. include:: git/branch.from.tag.rst
-.. include:: git/current.user.rst
-.. include:: git/diff.from.two.branch.rst
-.. include:: git/diff.from.two.commit.rst
-.. include:: git/directory.rename.rst
-.. include:: git/remove.remote.tag.rst
-.. include:: git/start.rst
-.. include:: git/tag.move.rst
+ - [Creare un nuovo branch da un tag](https://github.com/sensorario/LyiiBRO/blob/master/git/branch.from.tag.rst)
+ - [Set current user](https://github.com/sensorario/LyiiBRO/blob/master/git/current.user.rst)
+ - [Diff from two branch](https://github.com/sensorario/LyiiBRO/blob/master/git/diff.from.two.branch.rst)
+ - [Diff from two commits](https://github.com/sensorario/LyiiBRO/blob/master/git/diff.from.two.commit.rst)
+ - [Rename a directory](https://github.com/sensorario/LyiiBRO/blob/master/git/directory.rename.rst)
+ - [Remove remote branch](https://github.com/sensorario/LyiiBRO/blob/master/git/remove.remote.tag.rst)
+ - [Iniziare un nuovo repository](https://github.com/sensorario/LyiiBRO/blob/master/git/start.rst)
+ - [Spostare un tag](https://github.com/sensorario/LyiiBRO/blob/master/git/tag.move.rst)
 
 Phing
 =====
