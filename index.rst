@@ -49,6 +49,7 @@ Git
 .. include:: git/branch.from.tag.rst
 .. include:: git/current.user.rst
 .. include:: git/diff.from.two.branch.rst
+.. include:: git/diff.from.two.commit.rst
 .. include:: git/directory.rename.rst
 .. include:: git/remove.remote.tag.rst
 .. include:: git/start.rst
