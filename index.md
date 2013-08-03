@@ -29,12 +29,12 @@ Yii1.1.x
 Varie
 -----
 
-.. include:: yii/behaviors.rst
-.. include:: yii/CActiveDataProvider.rst
-.. include:: yii/events.rst
-.. include:: yii/relations.rst
-.. include:: yii/rbac.checkaccess.rst
-.. include:: yii/tests.functional.rst
+ - [Ordinare un CActiveDataProvider](https://github.com/sensorario/LyiiBRO/blob/master/yii/CActiveDataProvider.rst)
+ - [Functional tests in Yii](https://github.com/sensorario/LyiiBRO/blob/master/yii/tests.functional.rst)
+ - [Relazioni con condizione](https://github.com/sensorario/LyiiBRO/blob/master/yii/relations.rst)
+ - [Check roles of a particular user](https://github.com/sensorario/LyiiBRO/blob/master/yii/rbac.checkaccess.rst)
+ - [Events](https://github.com/sensorario/LyiiBRO/blob/master/yii/events.rst)
+ - [Behaviors](https://github.com/sensorario/LyiiBRO/blob/master/yii/behaviors.rst)
 
 Ssh
 ===
