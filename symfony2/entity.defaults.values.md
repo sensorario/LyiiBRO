@@ -12,4 +12,4 @@ set this value in entity's class.
          * @ORM\Column(name="open", type="boolean")
          */
         private $open = true;
-   }
+    }
