@@ -1,7 +1,7 @@
 PHP
 ===
 
-.. include:: php/DateTime.md
+ - [Differenza tra date](https://github.com/sensorario/LyiiBRO/blob/master/php/DateTime.md)
 
 Symfony2
 ========
