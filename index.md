@@ -16,6 +16,7 @@ Varie
  - [Sessioni](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/sessioni.rst)
  - [Proteggere una rotta](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/sicurezza.rotte.rst)
  - [Permessi su linux](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/start.on.linux.rst)
+ - [Gestire il locale](https://github.com/sensorario/LyiiBRO/blob/master/symfony2/locale.rst)
 
 Model
 -----
