@@ -53,6 +53,7 @@ Git
  - [Remove remote branch](https://github.com/sensorario/LyiiBRO/blob/master/git/remove.remote.tag.md)
  - [Iniziare un nuovo repository](https://github.com/sensorario/LyiiBRO/blob/master/git/start.md)
  - [Spostare un tag](https://github.com/sensorario/LyiiBRO/blob/master/git/tag.move.md)
+ - [Committare in una data precisa](https://github.com/sensorario/LyiiBRO/blob/master/git/commit.date.md)
 
 Phing
 =====
